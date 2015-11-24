@@ -1,4 +1,6 @@
-<?php class Login{
+<?php 
+
+class Login{
    
   public $username;
   public $password;
